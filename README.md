@@ -1,5 +1,6 @@
+[customer_prediction.py](https://github.com/user-attachments/files/31116534/customer_prediction.py)
 # Farkli_Makine_Ogrenmesi_Yontemleri_Kullanilarak_Musteri_Kaybi_Tahmini_Yapilmasi
-Bu proje, bir dizi-film akış platformundaki müşterilerin aboneliklerini iptal edip etmeyeceğini (churn) makine öğrenmesi modelleriyle tahmin etmek amacıyla geliştirilmiştir.
+Bu proje, bir dizi-film akış platformundaki müşterilerin aboneliklerini iptal edip etmeyeceğini (churn) makine öğrenmesi modelleriyle tahmin etmek amacıyla geliştirilmiştir. Kodlara customer_prediction.py üzerinden ulaşabilirsiniz.
 
 ---
 
