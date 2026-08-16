@@ -55,10 +55,3 @@ Müşteri elde tutma, abonelik tabanlı hizmet veren platformlar için kritik bi
 
 3. **Değerlendirme:**
    * Modellerin başarıları Accuracy (Doğruluk) skorları ve Karmaşıklık Matrisleri (Confusion Matrix) ile karşılaştırıldı.
-
-## Öne Çıkan Bulgular
-
-* **Lojistik Regresyon**, sınıflar arasındaki doğrusal ilişkileri en iyi yakalayan model olarak %88.8 doğruluk oranıyla en yüksek başarıyı göstermiştir.
-* Platformdaki müşterilerin yaklaşık **%49.7'si** churn riski taşımaktadır. Başarılı sınıflandırma modeli sayesinde terk etme eğilimi gösteren müşteriler önceden tespit edilerek proaktif promosyon ve indirim kampanyaları kurgulanabilir.
-
----
