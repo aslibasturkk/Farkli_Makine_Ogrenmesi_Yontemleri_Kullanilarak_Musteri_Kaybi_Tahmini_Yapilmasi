@@ -1,0 +1,1 @@
+# Farkli_Makine_Ogrenmesi_Yontemleri_Kullanilarak_Musteri_Kaybi_Tahmini_Yapilmasi
